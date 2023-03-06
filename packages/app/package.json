@@ -120,7 +120,7 @@
     "css-modules-loader-core": "^1.1.0",
     "date-fns": "^2.4.1",
     "date-fns-tz": "^1.0.7",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "dot-object": "^1.9.0",
     "downshift": "^5.0.0",
     "escope": "^3.6.0",
